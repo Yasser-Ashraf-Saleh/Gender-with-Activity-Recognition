@@ -111,3 +111,8 @@ We explored the accuracy and F-measure for both datasets using RF, SVM, and CNN,
 
 <!-- - The main.rar file includes the raw data extracted from the .mat files downloaded, while the FINAL.rar resembles the data overlapped preprocessed, and used for the training -->
 
+How to Cite
+Please cite this work as follows:
+A. Sharshar, A. Fayez, Y. Ashraf and W. Gomaa, "Activity With Gender Recognition Using Accelerometer and Gyroscope," 15th International Conference on Ubiquitous Information Management and Communication (IMCOM), 2021.
+Paper Link: https://ieeexplore.ieee.org/document/9377388
+
